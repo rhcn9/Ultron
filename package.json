@@ -1,0 +1,12 @@
+{
+  "name": "Ultron_bot",
+  "version": "0.0.1",
+  "description": "nada papu",
+  "main": "ultron.js",
+  "scripts": {
+  "start": "ultron.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
